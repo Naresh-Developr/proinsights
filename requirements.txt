@@ -1,8 +1,8 @@
 Django>=4.0
-pandas>=1.3.0
-google-generative-ai
-
+pandas
+google-generativeai
 djangorestframework
 gunicorn 
 psycopg2-binary
+
 
