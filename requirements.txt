@@ -4,5 +4,5 @@ google-generativeai
 djangorestframework
 gunicorn 
 psycopg2-binary
-
+django-cors-headers
 
